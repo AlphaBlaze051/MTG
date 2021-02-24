@@ -1,5 +1,5 @@
-To use the program you must run the MTGGUI.py program but first you need to make sure that you have the modules tkinter, mergedeep, ast and pickle
+To use the program download the MTGGUI.exe and test.txt and store them in the same folder.
 
-You also need to download and have CardInfo.py and test.txt in the same directory/folder as MTGGUI.py
+simply run the exe and click the options menue button to see what you can do with the program
 
-if you get any errors or sugestions for improvment please email me at Aj.dj.email@gmail.com with the subject "MTG pro"
+If you get any errors or have sugestions for improvment please email me at Aj.dj.email@gmail.com with the subject "MTG pro"
