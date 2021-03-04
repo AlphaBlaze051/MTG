@@ -1,3 +1,10 @@
+#**What this is:**
+
+This Program is designed so people who play MTG can easily make a list of their cards and search threw it. The Idea is that this can be used for stuff like deck making and trading. 
+
+
+#**How to use:**
+
 Simply run the exe and click the options menu button to select the list or filtering options.
 
 When using the list making feature you must enter in the card name exactly as it is on the card (if your not sure how a card is spelt look at the AllCards.txt file where you can see a full list of all the cards and how they are spelt and formated for the program).
