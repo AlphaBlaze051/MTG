@@ -1,9 +1,9 @@
-#**What this is:**
+#What this is:
 
 This Program is designed so people who play MTG can easily make a list of their cards and search threw it. The Idea is that this can be used for stuff like deck making and trading. 
 
 
-#**How to use:**
+#How to use:
 
 Simply run the exe and click the options menu button to select the list or filtering options.
 
