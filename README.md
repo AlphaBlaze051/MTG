@@ -13,5 +13,7 @@ To use the program with your own card list you must enter in the file name witho
 
 When using the filter option it will only show cards that meet all the requirments if no cards are listed there was a problem with the program, the card dosen't exist or the card is not on the list given.
 
+**Contact info:**
+
 If you have any problems or have sugestions for improvments in design or look please email me at Aj.dj.email@gmail.com with the subject "MTG pro".
 (Please remember that this is just a beta at this point in time and there will be many changes in the near future)
